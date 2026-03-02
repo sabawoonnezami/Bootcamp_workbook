@@ -1,69 +1,46 @@
-# 📘 Data Technician – Week 1  
-## Foundations of Data, Excel & Business Communication
+# 📊 Data Technician Bootcamp – Week 1  
+## Data Governance, Excel & Business Reporting
 
 ---
 
-## 📅 Overview
+## 🎯 Overview
 
 Week 1 focused on building core foundations in:
 
-- UK Data Laws & Regulations  
-- Excel data analysis  
-- Pivot Tables  
-- Data categorisation using formulas  
-- Presenting findings to senior leadership  
+- UK Data Laws & Compliance (GDPR, Data Protection Act, FOIA, Computer Misuse Act)
+- Excel data analysis
+- Pivot Tables
+- Presenting insights to senior leadership
 
-This week strengthened both technical skills and professional communication abilities.
-
----
-
-# 📚 Day 1 – Data Laws & Regulations
-
-## Covered Legislation
-
-- Data Protection Act  
-- GDPR (General Data Protection Regulation)  
-- Freedom of Information Act  
-- Computer Misuse Act  
-
-## Key Learning Outcomes
-
-- Understanding lawful data processing  
-- Individual data rights (access, correction, erasure)  
-- Organisational accountability  
-- Consequences of data breaches (fines, legal action, reputational damage)  
-- Importance of transparency and consent  
+The emphasis was on understanding both **technical accuracy** and **responsible data handling**.
 
 ---
 
-# 📊 Day 2 – Excel Data Analysis
+## 🛡 Data Governance
 
-## Practical Skills Developed
+Key learning included:
 
-- Converting raw data into structured tables  
-- Sorting data (largest to smallest)  
-- Using functions:
-  - `SUM()`
-  - `AVERAGE()`
-- Applying Conditional Formatting  
-- Basic data exploration  
+- Lawful data processing and individual data rights  
+- Organisational accountability when handling sensitive data  
+- Risks of non-compliance (legal, financial, reputational)
+
+This reinforced the importance of ethical and secure data management.
 
 ---
 
-# 📈 Day 3 – Pivot Tables & Data Categorisation
+## 📈 Excel & Data Analysis
 
-## Activities Completed
+Skills applied:
 
-- Created Pivot Tables to summarise datasets  
-- Analysed Bike Sales dataset  
-- Used `SWITCH()` function to categorise sales volume  
-- Identified and corrected data quality issues (e.g., extra spaces in country names)  
+- Creating structured tables  
+- Sorting and filtering datasets  
+- Using `SUM()` and `AVERAGE()` functions  
+- Building Pivot Tables to summarise performance data  
+- Identifying and correcting data quality issues  
 
 ---
 
-## 📸 Evidence of Practical Work
-
-### Pivot Table Analysis
+## 📊 Pivot Table Output
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%201.png" width="750">
@@ -71,7 +48,7 @@ This week strengthened both technical skills and professional communication abil
 
 ---
 
-### Additional Week 1 Exercise
+## 📊 Additional Exercise
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%201.1.png" width="750">
@@ -79,47 +56,27 @@ This week strengthened both technical skills and professional communication abil
 
 ---
 
-# 🎤 Day 4 – Presenting to Senior Leaders
+## 🎤 Business Scenario
 
-## Scenario
+Presented findings on customer churn at the 12-month renewal stage.
 
-Presented findings showing customers leaving at the 12-month renewal stage.
-
-## Key Concepts Covered
-
-- Structuring executive presentations  
-- Prospecting the audience  
-- Public speaking best practices  
-- Linking data insights to business decisions  
-- Using visualisation tools (Excel, Power BI, Tableau)  
-
-## Example Recommendations
-
-- Review renewal pricing strategy  
-- Improve customer communication before renewal  
-- Introduce loyalty incentives  
+Key focus:
+- Clear executive-level communication  
+- Linking data insights to business impact  
+- Providing actionable recommendations  
 
 ---
 
-# 🛠 Skills Developed in Week 1
+## 🛠 Skills Developed
 
-### Technical Skills
-- Excel data manipulation  
-- Pivot table creation  
-- Logical functions (SWITCH)  
+- Excel data analysis  
+- Pivot table reporting  
 - Data cleaning  
-- Basic business analytics  
-
-### Professional Skills
 - Legal compliance awareness  
-- Analytical thinking  
-- Executive communication  
-- Data storytelling  
+- Business communication  
 
 ---
 
-# 🎯 Reflection
+## 🔎 Reflection
 
-Week 1 provided a strong foundation in both the technical handling of data and the legal responsibilities associated with data management.
-
-It also introduced the importance of translating technical findings into clear business recommendations for senior decision-makers.
+Week 1 established strong foundations in data handling, analysis, and professional reporting — essential skills for a Data Technician.
