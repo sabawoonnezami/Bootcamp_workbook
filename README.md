@@ -1,156 +1,72 @@
 # 🚀 Data Technician Bootcamp Portfolio  
-## End-to-End Data Skills Development
-
----
 
 ## 📌 Overview
 
-This repository showcases practical work completed during my Data Technician Bootcamp, covering:
+This repository contains practical work completed during my Data Technician Bootcamp.
 
-- Data Governance & Excel Analytics  
-- Data Visualisation (Tableau & Power BI)  
-- SQL & Database Design  
-- Cloud Computing with Microsoft Azure  
-- Python & Pandas Data Analysis  
+The programme covered the full data lifecycle — from data governance and Excel analytics to SQL, cloud computing, and Python-based analysis.
 
-The programme focused on combining **technical skills**, **business understanding**, and **real-world scenarios**.
+Each week folder contains detailed tasks, outputs, and reflections.
 
 ---
 
-# 📊 Week 1 – Data Governance & Excel Analytics
+## 📚 Programme Summary
 
-Focused on:
-
-- GDPR, Data Protection Act & FOIA compliance  
-- Data cleaning and structuring in Excel  
-- Pivot Tables and data categorisation  
-- Presenting insights to senior leadership  
-
-### 📸 Pivot Table Example
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%201.png" width="750">
-</p>
-
-Key learning:
-- Turning raw datasets into structured summaries  
-- Identifying data inconsistencies  
-- Communicating churn insights to senior stakeholders  
+### 📊 Data Governance & Excel
+- GDPR & Data Protection Act compliance
+- Data cleaning and structuring
+- Pivot Tables & data categorisation
+- Business-focused reporting
 
 ---
 
-# 📈 Week 2 – Data Visualisation (Tableau & Power BI)
-
-Focused on:
-
-- Building dashboards in Tableau  
-- Trend analysis using Spotify & health datasets  
-- Creating interactive Power BI reports  
-- Designing executive-ready visual reports  
-
-### 📸 Power BI Dashboard
+### 📈 Data Visualisation (Tableau & Power BI)
+- Dashboard design
+- Interactive reports
+- Trend analysis (Spotify & Health datasets)
+- Geospatial visualisations
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%202.png" width="750">
+  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%202.png" width="700">
 </p>
-
-### 📸 Spotify Data Analysis
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%202.2.png" width="750">
-</p>
-
-Key learning:
-- Visual storytelling  
-- Interactive dashboard design  
-- Converting trends into strategic insights  
 
 ---
 
-# 🗃 Week 3 – SQL & Database Concepts
-
-Focused on:
-
-- Primary & Foreign Keys  
-- One-to-one, one-to-many & many-to-many relationships  
-- JOIN operations (INNER, LEFT, RIGHT, FULL, CROSS, SELF)  
-- Real-world SQL queries using a global dataset  
-
-### 📸 SQL Query Output
+### 🗃 SQL & Database Design
+- Primary & foreign keys
+- Database relationships
+- JOIN operations
+- Real-world SQL querying
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%203.png" width="750">
+  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%203.png" width="700">
 </p>
-
-Key learning:
-- Translating business questions into SQL queries  
-- Extracting insights from relational databases  
-- Structuring and modelling data effectively  
 
 ---
 
-# ☁️ Week 4 – Azure Data Fundamentals (DP-900)
-
-Focused on:
-
-- Cloud computing models (IaaS, PaaS, SaaS)  
-- Public, Private & Hybrid cloud  
-- Azure SQL, Blob Storage & Data Factory  
-- Designing scalable cloud solutions  
-
-### 📸 Azure Practical Lab
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%204.png" width="750">
-</p>
-
-Business Case:
-Designed an Azure architecture for a retail company (“Paws & Whiskers”) including:
-
-- Secure data storage  
-- Automation pipelines  
-- Machine learning recommendations  
-- Power BI dashboards  
-
-Key learning:
-- Cloud architecture thinking  
-- Data compliance in cloud environments  
-- Scalable system design  
+### ☁️ Cloud Computing – Microsoft Azure (DP-900)
+- Cloud models (IaaS, PaaS, SaaS)
+- Azure SQL & Blob Storage
+- Data architecture design
+- Security & compliance in cloud systems
 
 ---
 
-# 🐍 Week 5 – Python & Pandas
-
-Focused on:
-
-- Python fundamentals (FizzBuzz logic exercise)  
-- Data analysis using Pandas  
-- Data transformation & grouping  
-- Pivot tables in Python  
-- Working with GDP datasets  
-
-### 📸 Python Output (FizzBuzz)
+### 🐍 Python & Pandas
+- Python fundamentals
+- Data transformation & grouping
+- Pivot tables in Pandas
+- GDP dataset analysis
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%205.png" width="750">
+  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%205.5.png" width="700">
 </p>
-
-### 📸 Pandas Data Analysis
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%205.5.png" width="750">
-</p>
-
-Key learning:
-- Cleaning and transforming datasets programmatically  
-- Automating analysis workflows  
-- Generating structured outputs for reporting  
 
 ---
 
-# 🛠 Technical Skills Developed
+## 🛠 Technical Skills
 
-### Data Tools
+**Data Tools**
 - Excel  
 - SQL  
 - Tableau  
@@ -158,26 +74,23 @@ Key learning:
 - Python (Pandas)  
 - Microsoft Azure  
 
-### Core Competencies
+**Core Capabilities**
 - Data cleaning & transformation  
 - Database modelling  
 - Dashboard development  
-- Cloud data architecture  
-- Legal compliance awareness  
-- Business-focused reporting  
+- Cloud-based data solutions  
+- Business insight communication  
 
 ---
 
-# 🎯 Final Reflection
+## 🎯 Outcome
 
 This bootcamp strengthened my ability to:
 
-- Work with structured and unstructured data  
-- Design and query relational databases  
-- Build interactive dashboards  
-- Apply cloud technologies for scalable solutions  
-- Communicate insights clearly to stakeholders  
+- Work confidently with structured datasets  
+- Extract insights using SQL and Python  
+- Build clear, interactive dashboards  
+- Design scalable cloud-based solutions  
+- Communicate findings effectively to stakeholders  
 
-The portfolio demonstrates a complete journey from **data governance and spreadsheets** to **SQL, cloud computing, and Python-based analytics**.
-
----
+For detailed work and screenshots, please explore the individual weekly folders.
