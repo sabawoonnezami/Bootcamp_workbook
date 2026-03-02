@@ -1,64 +1,69 @@
 # 📊 Data Technician Bootcamp – Week 3  
-## Python, Pandas & Data Analysis
+## Database Concepts & SQL
 
 ---
 
 ## 🎯 Overview
 
-Week 3 focused on developing Python programming skills for data analysis, including:
+Week 3 focused on understanding database structure and applying SQL to analyse relational data.
 
-- Python fundamentals
-- Working with data using Pandas
-- Data manipulation and transformation
-- Creating basic visualisations
+Key areas covered:
 
-This week built the foundation for data cleaning, transformation, and exploratory analysis using Python.
-
----
-
-## 🐍 Python Fundamentals
-
-Learned and practised:
-
-- Conditional logic (`if` statements)
-- Loops (`for`, `while`)
-- Functions and modular thinking
-- Core programming concepts used in real-world data tasks
-
-These skills are essential for automating data workflows and preparing datasets.
+- Primary & foreign keys
+- Database relationships
+- Relational vs non-relational databases
+- SQL JOIN operations
+- Practical SQL querying using a world database
 
 ---
 
-## 📊 Pandas Data Analysis
+## 🧠 Database Fundamentals
 
-Skills developed:
+Explored core concepts including:
 
-- Loading CSV files into DataFrames  
-- Inspecting data (`head()`, `info()`, `describe()`)  
-- Filtering and slicing rows  
-- Adding and renaming columns  
-- Dropping unnecessary columns  
-- GroupBy and aggregation  
-- Sorting and exporting cleaned data  
+- **Primary Keys** – uniquely identify records  
+- **Foreign Keys** – link related tables  
+- One-to-one relationships  
+- One-to-many relationships  
+- Many-to-many relationships  
 
-This mirrors typical tasks in data cleaning and reporting workflows.
+These concepts ensure structured, organised, and reliable data storage.
 
 ---
 
-## 📈 Data Visualisation with Pandas
+## 🔄 SQL JOIN Types
 
-Created basic charts to visually explore patterns in datasets:
+Researched and applied:
 
-- Bar charts to compare group totals
-- Trend exploration using dataset summaries
+- INNER JOIN  
+- LEFT JOIN  
+- RIGHT JOIN  
+- FULL JOIN  
+- CROSS JOIN  
+- SELF JOIN  
 
-These visualisations help explain data insights to non-technical audiences.
+This developed a strong understanding of how multiple tables connect and how to retrieve meaningful combined data.
 
 ---
 
-## 📸 Week 3 Screenshots
+## 🗃 SQL Practical – World Database
 
-### Week 3 – Python Data Work
+Completed practical SQL exercises including:
+
+- Counting cities in the USA  
+- Identifying countries with highest/lowest life expectancy  
+- Filtering cities by name patterns  
+- Sorting and limiting results  
+- Calculating average population by country  
+- Comparing capital city populations  
+
+These exercises strengthened real-world querying and analytical skills.
+
+---
+
+## 📸 SQL Query Output
+
+### Week 3 – Query Results
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%203.png" width="750">
@@ -66,7 +71,7 @@ These visualisations help explain data insights to non-technical audiences.
 
 ---
 
-### Week 3 – Additional Output
+### Week 3 – Additional SQL Analysis
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%203.3.png" width="750">
@@ -76,14 +81,14 @@ These visualisations help explain data insights to non-technical audiences.
 
 ## 🛠 Skills Developed
 
-- Python basics
-- Data manipulation with Pandas
-- Data cleaning and transformation
-- Basic data visualisation
-- Exporting structured results
+- Database design thinking  
+- SQL querying  
+- Table relationships  
+- Data filtering and aggregation  
+- Translating business questions into SQL solutions  
 
 ---
 
 ## 🔎 Reflection
 
-Week 3 solidified my ability to work with real-world data using Python and Pandas. I can now load, transform, analyse, and visualise datasets — skills essential for any data technician or analyst role.
+Week 3 strengthened my understanding of relational databases and improved my ability to confidently write SQL queries to extract structured insights from complex datasets.
