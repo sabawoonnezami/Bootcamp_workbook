@@ -69,4 +69,4 @@ This week covered:
 
 ## 📁 Evidence
 See original workbook:
-Week 1 Workbook → :contentReference[oaicite:1]{index=1}
+Week 1 Workbook
