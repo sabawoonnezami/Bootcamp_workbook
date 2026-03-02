@@ -1,49 +1,29 @@
 # 📊 Data Technician Bootcamp – Week 2  
-## SQL, Database Design & Data Relationships
+## Tableau & Power BI Data Visualisation
 
 ---
 
 ## 🎯 Overview
 
-Week 2 focused on developing strong database fundamentals, including:
+Week 2 focused on analysing datasets and presenting insights using Tableau and Power BI.
 
-- Relational database structure
-- SQL query writing
-- JOIN operations
-- Practical database design
-
-This week emphasised understanding how to model, query, and relate data — a key skill for any data role.
+The goal was to transform raw data into meaningful visual dashboards to support business decision-making.
 
 ---
 
-## 🧠 Database Fundamentals
+## 📊 Power BI Dashboard
 
-Learned and practised:
+Built interactive reports and dashboards using Power BI.
 
-- Primary keys and foreign keys  
-- One-to-one, one-to-many, and many-to-many relationships  
-- Difference between relational and non-relational databases  
-- Entity integrity and referential integrity
+Key focus areas:
 
-These concepts ensure data is structured logically and accessed efficiently.
+- Data transformation
+- Report design
+- Dashboard layout
+- Visual storytelling
+- Interactive filtering
 
----
-
-## 🗃 SQL Query Skills
-
-Skills developed:
-
-- Writing `SELECT` queries  
-- Filtering and sorting data  
-- Using `WHERE`, `GROUP BY`, `ORDER BY`
-- Aggregate functions (`COUNT()`, `SUM()`, `AVG()`)
-- JOIN types (INNER, LEFT, RIGHT, FULL)
-
----
-
-## 📊 SQL Practical Output
-
-### Week 2 Image – Query Results
+### 📸 Power BI Dashboard Output
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%202.png" width="750">
@@ -51,7 +31,18 @@ Skills developed:
 
 ---
 
-### Week 2 Additional Screenshot
+## 🎵 Spotify Dataset Analysis
+
+Conducted exploratory data analysis on Spotify data to identify trends and insights.
+
+Focused on:
+
+- Popularity patterns
+- Performance trends
+- Data-driven insights for future projects
+- Identifying meaningful comparisons within the dataset
+
+### 📸 Spotify Visual Analysis
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%202.2.png" width="750">
@@ -59,30 +50,36 @@ Skills developed:
 
 ---
 
-## 📐 Database Design
+## 🏥 Health Dataset Analysis
 
-Completed a practical database design project with:
+Analysed health data trends and reflected on how data can support NHS decision-making, including:
 
-- Customers table  
-- Inventory table  
-- Sales and transactions tables  
-- Keys to link related data  
-- Example scenarios to test joins and relationships
+- Resource allocation
+- Demand forecasting
+- Strategic planning
 
-This demonstrated how real business data can be modelled and queried.
+---
+
+## 📊 Practical Work Completed
+
+- Get Data in Power BI Desktop  
+- Load Transformed Data in Power BI Desktop  
+- Design a Report in Power BI Desktop  
+- Create a Power BI Dashboard  
 
 ---
 
 ## 🛠 Skills Developed
 
-- SQL querying  
-- Data modelling  
-- JOIN operations  
-- Logical structuring of tables  
-- Data relationship understanding
+- Dashboard design
+- Data transformation
+- Visual analytics
+- Trend identification
+- Business insight communication
+- Power BI modelling basics
 
 ---
 
 ## 🔎 Reflection
 
-Week 2 deepened my understanding of relational databases and taught me how to extract meaningful insights using SQL queries. These skills are foundational for reporting, data engineering, and analytical roles.
+Week 2 strengthened my ability to analyse datasets independently and present insights visually. I developed confidence in building dashboards that clearly communicate trends and support informed decision-making.
