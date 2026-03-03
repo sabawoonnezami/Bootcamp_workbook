@@ -1,124 +1,66 @@
-#  Sabawoon Nezami  
+# Sabawoon Nezami  
 ## Data Technician | SQL | Power BI | Python | Azure
 
 ---
 
-## 👋 About Me
+## 👋 About
 
-I am Sabawoon Nezami, a Data Technician trained through an intensive bootcamp delivered in partnership with **Leep Talent**.
+I am Sabawoon Nezami, a Data Technician trained through a bootcamp delivered in partnership with **Leep Talent**.
 
-This portfolio demonstrates practical experience across the full data lifecycle — from data governance and database querying to dashboard development and cloud-based data solutions.
+This portfolio showcases practical, hands-on work across the data lifecycle — from data governance and Excel analytics to SQL querying, dashboard development, cloud fundamentals, and Python-based analysis.
 
-My focus is on transforming structured data into meaningful business insights.
-
----
-
-# 📊 Portfolio Dashboard Overview
-
-This repository highlights key outputs from my Data Technician Bootcamp, including:
-
-- 📈 Interactive Power BI dashboards  
-- 🗃 SQL querying and relational database modelling  
-- 🐍 Python & Pandas data analysis  
-- ☁️ Azure cloud architecture fundamentals  
-- 📊 Excel-based data cleaning and reporting  
-
-Each weekly folder contains detailed documentation and screenshots of completed practical tasks.
+Detailed breakdowns are available in each weekly folder.
 
 ---
 
-# 🔎 Featured Work
+## 📊 Core Areas Covered
 
-## 📈 Power BI Dashboard Development
+- **Data Governance & Excel** – Data cleaning, pivot tables, compliance awareness  
+- **Data Visualisation** – Power BI & Tableau dashboards  
+- **SQL & Databases** – Relational modelling, JOIN operations, aggregations  
+- **Cloud Fundamentals** – Microsoft Azure (DP-900 concepts)  
+- **Python & Pandas** – Data manipulation, grouping, transformation  
 
-- Data transformation and modelling  
-- Report design and interactive filtering  
-- KPI-focused visualisation  
+---
+
+## 🔎 Sample Work
+
+### Power BI Dashboard
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%202.png" width="750">
+  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%202.png" width="700">
+</p>
+
+### SQL Querying
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%203.png" width="700">
+</p>
+
+### Python Data Analysis
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%205.5.png" width="700">
 </p>
 
 ---
 
-## 🗃 SQL & Database Querying
+## 🛠 Technical Skills
 
-- Primary & foreign key relationships  
-- JOIN operations (INNER, LEFT, RIGHT)  
-- Aggregations and filtering  
-- Real-world demographic dataset analysis  
+**Tools:**  
+Excel • SQL • Power BI • Tableau • Python (Pandas) • Microsoft Azure  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%203.png" width="750">
-</p>
-
----
-
-## 🐍 Python & Pandas Analysis
-
-- DataFrame manipulation  
-- Grouping and aggregation  
-- Pivot tables in Python  
-- Structured GDP dataset analysis  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabawoonnezami/Bootcamp_workbook/main/Images/Week%205.5.png" width="750">
-</p>
-
----
-
-# ☁️ Cloud & Data Fundamentals (Azure DP-900)
-
-- IaaS, PaaS, SaaS models  
-- Azure SQL & Blob Storage  
-- Data security & compliance awareness  
-- Scalable architecture design  
-
----
-
-# 🛠 Technical Stack
-
-**Data & Analytics**
-- Excel
-- SQL
-- Power BI
-- Tableau
-- Python (Pandas)
-
-**Cloud & Infrastructure**
-- Microsoft Azure
-- Cloud architecture fundamentals
-- Data compliance (GDPR, Data Protection Act)
-
----
-
-# 📚 Bootcamp Information
-
-Completed as part of a Data Technician programme delivered in collaboration with:
-
-🔗 https://leepgroup.com/recruitment-and-partnerships  
-
-All weekly workbooks and detailed documentation are available within this repository.
-
----
-
-# 🎯 What This Portfolio Demonstrates
-
-- Ability to work confidently with structured datasets  
-- Strong understanding of relational database concepts  
-- Practical dashboard development skills  
-- Cloud data architecture awareness  
-- Clear communication of data insights  
+**Capabilities:**  
+Data cleaning • Dashboard creation • Database querying • Cloud fundamentals • Business insight communication  
 
 ---
 
 ## 📬 Open to Opportunities
 
-I am actively seeking entry-level roles in:
+Seeking entry-level roles in:
 
 - Data Technician  
 - Data Analyst  
 - Business Intelligence Analyst  
-- Junior Data Engineer  
 
-Feel free to connect or reach out.
+For detailed tasks and documentation, please explore the individual weekly folders.
